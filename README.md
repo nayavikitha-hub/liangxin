@@ -65,11 +65,11 @@ LiangXin 良心云机场官网地址</br>
 - **注意:** 特殊商品，购买前请仔细阅读官网说明。
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](https://github.com/nayavikitha-hub/liangxin/blob/main/img/photo_2026-05-13_14-49-06.jpg?raw=ture)  
+![image](https://github.com/nayavikitha-hub/liangxin/blob/main/liangxin/photo_2026-05-13_14-49-06.jpg?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](https://github.com/nayavikitha-hub/liangxin/blob/main/img/MiaoKo-%20.xyz-8008-test.png?raw=ture)    
+![image](https://github.com/nayavikitha-hub/liangxin/blob/main/liangxin/MiaoKo-%20.xyz-8008-test.png?raw=ture)    
 #### 3.落地入口分析  
-![image](https://github.com/nayavikitha-hub/liangxin/blob/main/img/MiaoKo-%20.xyz-7910-analyze.png?raw=ture)
+![image](https://github.com/nayavikitha-hub/liangxin/blob/main/liangxin/MiaoKo-%20.xyz-7910-analyze.png?raw=ture)
 #### 4.服务器状态整理
 | 倍率 | 协议 | 节点 | 线路 | 标签 |
 |---|---|---|---|---|
